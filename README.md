@@ -1,0 +1,2 @@
+# studio-manager
+studio
